@@ -5,4 +5,6 @@ def square_array(array)
     squared_array.push(element * element)
   }
   squared_array
+  #Solution with collect fits in one line
+  #array.collect{|element| element * element}
 end
