@@ -1,6 +1,22 @@
+**numbers = [1,2,3]
+
+#square_array(numbers)
+return
+
+**{1,4,9]
+
+**new_numbers = [9,10,16,25]
+
+square_array(new_numbers)
+return
+
+**[81,100,256,625]
+end
+
+
+
 
 # Square Array
-
 ## Objectives
 1. Practice iterating over an array using the `.each` method.
 2. Practice operating on each element of an array.

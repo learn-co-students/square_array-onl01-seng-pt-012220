@@ -1,3 +1,18 @@
+**numbers = [1,2,3]
+
+#square_array(numbers)
+return
+
+**{1,4,9]
+
+**new_numbers = [9,10,16,25]
+
+square_array(new_numbers)
+return
+
+**[81,100,256,625]
+end
+
 describe '#square_array' do
 
   it 'does not call on collect/map or inject' do
